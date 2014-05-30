@@ -1,6 +1,6 @@
 # php-getting-started
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework and [Twig](http://twig.sensiolabs.org/) templating, which can easily be deployed to Heroku.
 
 ## Running Locally
 
